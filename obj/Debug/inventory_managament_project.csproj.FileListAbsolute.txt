@@ -1,0 +1,13 @@
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\bin\Debug\inventory_managament_project.exe.config
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\bin\Debug\inventory_managament_project.exe
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\bin\Debug\inventory_managament_project.pdb
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.csproj.AssemblyReference.cache
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.loginPage.resources
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.Properties.Resources.resources
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.csproj.GenerateResource.cache
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.csproj.CoreCompileInputs.cache
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.exe
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.pdb
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.Form2.resources
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.dashboardForm.resources
+C:\Users\90532\source\repos\inventory_managament_project\inventory_managament_project\obj\Debug\inventory_managament_project.addusersForm.resources
